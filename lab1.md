@@ -11,7 +11,7 @@ For Window users, install [Git for Windows](https://gitforwindows.org/). After i
 Open a terminal on VScode by going to the menu option and press Terminal, then New Terminal.
 Type `$ ssh cs15lwi23zz@ieng6.ucsd.edu` to the terminal, replacing *zz* with the letters in your course-specific account. Then you'll need to allow connection and enter your password. Your terminal should display this: 
 
-![Image](https://github.com/kellylaaa/cse15l-lab-reports/blob/4bf1273d17db8396434721190438462a59fd89a3/remote%20connecting.png)
+![Image](remote-connecting.png)
 
 ## 3. Trying Some Commands
 Now that you are connected, try entering some commands to the terminal. Some commands you can try are:

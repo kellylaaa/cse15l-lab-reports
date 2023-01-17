@@ -21,4 +21,4 @@ Now that you are connected, try entering some commands to the terminal. Some com
 * ls -a 
 
 Your screen should look something like this: 
-![Image](https://github.com/kellylaaa/cse15l-lab-reports/blob/18b17324d55e6f9242131b3bcac20367989eb56c/commands.png)
+![Image](commands.png)

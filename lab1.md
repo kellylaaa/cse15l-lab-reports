@@ -15,10 +15,9 @@ Type `$ ssh cs15lwi23zz@ieng6.ucsd.edu` to the terminal, replacing *zz* with the
 
 ## 3. Trying Some Commands
 Now that you are connected, try entering some commands to the terminal. Some commands you can try are:
-* cd ~
-* cd
-* ls -lat
-* ls -a 
+* cd: this changes current working directory.
+* ls -lat: this gives us a list of the files and folders of given path.
+* ls -a: this will list all files including hidden files.
 
 Your screen should look something like this: 
 ![Image](commands.png)

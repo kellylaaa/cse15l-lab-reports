@@ -5,13 +5,13 @@ Code for my StringServer:
 
 ![Image](stringserver_code.png)
 
----
+
 ![Image](addmessage-hey.png)
 
 The main method and handlerRequest method was called. The relevant arguments in those methods are "/add-message", "=", and "s". The values of any
 relevant fields of the class is the String variable str. The str variable changed to "hey" after adding "hey". 
 
----
+
 ![Image](addmessage-heyhello.png)
 
 The main method and handlerRequest method was called. The relevant arguments in those methods are "/add-message", "=", and "s". The values of any

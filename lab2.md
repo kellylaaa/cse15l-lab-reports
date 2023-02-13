@@ -53,7 +53,8 @@ Before code change:
   }
 ```
 
-After code change:
+After code change: This code works because in the old code, the numbers were taken from an empty array so the reversed array would be empty.
+This new code fixes that issue. 
 ```
  static int[] reversed(int[] arr){
       int[] newArray = new int[arr.length];

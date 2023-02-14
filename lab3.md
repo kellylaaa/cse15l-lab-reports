@@ -2,6 +2,7 @@
 
 ## Researching Commands
 ##### 1. `find -name`
+source: I asked ChatGPT for command-line options to use "find" which gave me a list of options and defined what -name does. 
 
 example 1: This command finds files with the name "ch1.txt" and it's useful because it helps find the file with the searched name.
 
@@ -35,6 +36,8 @@ output:
 ```
 ---
 ##### 2. `find -type`
+source: I asked ChatGPT for command-line options to use "find" which gave me a list of options and defined what -type does. 
+
 example 1: This command finds files with the file type 'f' (which are regular files) and it's useful because it helps you find all the
 files of that type.
 
@@ -76,6 +79,7 @@ output:
 ```
 ---
 ##### 3. `find -size`
+source: I asked ChatGPT for command-line options to use "find" which gave me a list of options and defined what -size does. 
 
 example 1: This command finds files with files with the size less than 100KB and it's useful because it helps you find all the
 files that are less than that size.                                 
@@ -105,6 +109,7 @@ output:
 ```
 ---
 ##### 4. `find -mtime`
+source: I asked ChatGPT for command-line options to use "find" which gave me a list of options and defined what -mtime does. 
 
 example 1: This command finds files with files that were modified more than a day ago and it's useful because it helps you find all the
 files modified after a certain amount of days.  

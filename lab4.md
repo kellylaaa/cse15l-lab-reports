@@ -16,6 +16,8 @@ The `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command 
 ![Image](lab4-step3-.png)
 
 ##### 7. Edit the code file to fix the failing test
+I changed line 43 from `index1 += 1;` to `index2 += 1;`
+
 ![Image](lab4-step4.png)
 
 ##### 8. Run the tests, demonstrating that they now succeed

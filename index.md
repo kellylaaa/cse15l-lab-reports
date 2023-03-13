@@ -2,3 +2,4 @@
 * [lab 2](https://kellylaaa.github.io/cse15l-lab-reports/lab2.html)
 * [lab 3](https://kellylaaa.github.io/cse15l-lab-reports/lab3.html)
 * [lab 4](https://kellylaaa.github.io/cse15l-lab-reports/lab4.html)
+* [lab 5](https://kellylaaa.github.io/cse15l-lab-reports/lab5.html)
